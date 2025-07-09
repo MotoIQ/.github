@@ -39,8 +39,8 @@ Stay tuned for launch announcements and download links!
 Our tech stack includes:
 
 - **React Native** for cross-platform mobile development  
-- **Node.js & NestJS** for the backend  
-- **PostgreSQL** for data storage  
+- **Node.js & Express.js** for the backend  
+- **MongoDB** for data storage  
 - **Adalo (prototype phase)** for early MVP testing
 
 ---
